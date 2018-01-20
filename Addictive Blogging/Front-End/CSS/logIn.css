@@ -1,0 +1,37 @@
+    div.container{
+        height: 0em ;
+        background-color: none ;
+        position: relative ;
+        top: -200px ; }
+    div.container{
+        margin: 0;
+        background-color: none ;
+        overflow: visible ;
+        position: absolute;
+        top: 30%;
+        left: 40%;
+        color: black ;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) ;
+        font-family: comic sans MS ;
+         }
+    .login{
+             border: none;
+             background: grey ;
+             font-family: comic sans MS ;
+             font-size: large ;
+             position: relative ;
+             left:0% ;
+             top: 50% ;
+         }
+    .login:hover{
+             box-shadow: 20px 20px 20px -10px black ;
+             cursor: pointer ;
+         }
+    .register{
+             font-size: x-large;
+             color: black ;
+         }
+    .register:hover{
+             text-shadow: 10px 10px 10px black ;
+         }

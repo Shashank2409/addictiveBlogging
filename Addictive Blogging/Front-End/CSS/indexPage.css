@@ -1,0 +1,102 @@
+        table{
+            border: 1px solid black;
+        }   
+        div{                                                           
+            background-color: #030303;
+            width: 250px;
+            height: 400px;
+            overflow: scroll;
+            position: absolute ;
+            left:1097px ;
+            top:250px ;
+            font-family: comic sans MS ;
+            font-size: large ;
+            color: white ;
+            
+        }
+        ::-webkit-scrollbar {
+      width: 5px;
+      background-color: #FFFFFF ; 
+        }    
+        ::-webkit-scrollbar-thumb{
+            background-color: #353535 ;
+        }
+        ::-webkit-scrollbar-corner{
+            background-color: black ;
+        }
+        
+        .notice{                                    
+            position: absolute ;
+            left:1097px ;
+            top:200px ;
+            font-size: x-large ;
+        }
+        .notice:hover{
+            text-decoration: underline ;
+            cursor:pointer ;
+        }
+        
+        .blog1:hover{
+            text-decoration: underline ;
+            cursor: pointer ;
+        }
+        .blog2:hover{
+            text-decoration: underline ;
+            cursor: pointer ;
+        }
+        .blog3:hover{
+            text-decoration: underline ;
+            cursor: pointer ;
+        }
+        .blog4:hover{
+            text-decoration: underline ;
+            cursor: pointer ;
+        }
+        .blog5:hover{
+            text-decoration: underline ;
+            cursor: pointer ;
+        }
+        .blog6:hover{
+            text-decoration: underline ;
+            cursor: pointer ;
+        }
+        .para1{
+            position: absolute; ;
+            top: 200px ;
+            font-size: x-large ;
+            font-family: comic sans MS;
+            
+        }
+        .para1:hover{
+            text-decoration: underline ;
+            cursor: pointer;
+        }
+        .pic1{
+            position: absolute ;
+            height:350px ;
+            width: 250px ;
+            top: 250px ;
+            left: 50px ;
+
+        }
+        .pic1:hover{
+            box-shadow: 20px 20px 20px -10px black ;
+            cursor: pointer ;
+            word-wrap: break-word ;
+            position: absolute ;
+            left: 50 px ;
+            top: 250 px ;
+        }
+        .p1cont{
+            font-family: comic sans MS ;
+            position: absolute ;
+            left:340px ;
+            top:250px ;
+            width: 680px ;
+            word-wrap: break-word ;
+        }
+        .p1cont:hover{
+            box-shadow: 20px 20px 20px -10px black ;
+            cursor: pointer ;
+            opacity: .7 ;
+        }

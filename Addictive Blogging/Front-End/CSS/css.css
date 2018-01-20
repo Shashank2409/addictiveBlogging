@@ -1,0 +1,125 @@
+        body{
+            background-color: black ;
+            background:linear-gradient(to right,#2B2727,white) ;
+        }
+        p.text{
+            padding: 5px ;
+            border: 0px  solid #000000;
+            background-color: #000000;
+        }
+        .text{
+            margin-left: 0px ;
+            color: white ;
+            vertical-align: top ;
+            font-family: comic sans MS ;
+            font-size: x-large ;
+
+        }
+        
+        .contact{
+            position: relative; ;
+            left: 1072px ;
+            top: -67px ;
+            background: #AFACAC ;
+            color:black ;
+            height: 43px ;
+            width: 70 px ;
+            opacity: 1; 
+            cursor: pointer ;
+            font-family: comic sans MS ;
+            border: none;
+        }
+        .contact:hover{
+            opacity: .7 ;
+        }
+        .contact:active {
+            background-color: #000000;
+            color: white ;
+            
+        }
+        .posts{
+            position: relative ;
+            left: 820px ;
+            top: -67px ;
+            background: #AFACAC ;
+            color:black ;
+            height: 43px ;
+            width: 70 px ;
+            opacity: 1; 
+            cursor: pointer ;
+            font-family: comic sans MS ;
+            border: none;
+        }
+        .posts:hover{
+            opacity: .7 ;
+        }
+        .posts:active {
+            background-color: #000000;
+            color: white ;
+            
+        }
+        .about{
+            position: relative ;
+            left: 820px ;
+            top: -67px ;
+            background: #AFACAC ;
+            color:black ;
+            height: 43px ;
+            width: 70 px ;
+            opacity: 1; 
+            cursor: pointer ;
+            font-family: comic sans MS ;
+            border: none;
+        }
+        .about:hover{
+            opacity: .7 ;
+        }
+        .about:active {
+            background-color: #000000;
+            color: white ;
+            
+        }
+        .signup{
+            position: relative ;
+            left:1253px ;
+            top: -67px ;
+            background: #AFACAC ;
+            color:black ;
+            height: 43px ;
+            width: 70 px ;
+            opacity: 1; 
+            cursor: pointer ;
+            font-family: comic sans MS ;
+            border: none;
+            text-decoration: none ;
+        }
+        .signup:hover{
+            opacity: .7 ;
+        }
+        .signup:active {
+            background-color: #000000;
+            color: white ;
+            
+        }
+        a:link{
+            text-decoration: none ;
+            color: black ;
+        }
+        a:visited{
+            color: black ;
+            text-decoration: none ;
+        }
+        .search{
+            position: relative ;
+            left: 780px ;
+            top: -10px ;
+            color: #FFFAFA ;
+            background: #F0EBEB ;
+        }
+        .sicon{
+            position: relative ;
+            left: 987px ;
+            top: -11px ;
+            color: black ;
+            background: #0E0D0D ;
+        }
